@@ -1,0 +1,24 @@
+{
+  "name": "rest-api-cp",
+  "version": "1.0.0",
+  "description": "rest-api-cp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fixamng/rest-api-cp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fixamng/rest-api-cp/issues"
+  },
+  "homepage": "https://github.com/fixamng/rest-api-cp#readme",
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.10"
+  }
+}
